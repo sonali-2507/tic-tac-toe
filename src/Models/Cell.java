@@ -4,5 +4,5 @@ public class Cell {
     private  int row;
     private  int col;
     private CellState cellState;
-    private  Player player;
+    private  Player player; //player
 }
